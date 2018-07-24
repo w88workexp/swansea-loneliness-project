@@ -1,0 +1,63 @@
+html, body {
+  font-size: 18px !important;
+  font-family: "Ubuntu" !important;
+}
+
+h1 {
+  font-size: 2em !important;
+}
+
+h2 {
+  font-size: 1.8em !important;
+}
+
+h3 {
+  font-size: 1.5em !important;
+}
+
+p {
+  font-size: 1em !important;
+}
+
+p, .lead {
+  font-size: 0.8em !important
+}
+
+.footer {
+  background-color: #383131;
+  color: #ffffff !important;
+}
+
+.smallPadding {
+  padding: 2% !important;
+  margin: 2% !important;
+}
+
+.navColour {
+  background-color: #e33737 !important;
+  color: #ffffff !important;
+  padding: 2%;
+}
+
+.navColour a {
+  color: #ffffff !important;
+  font-weight: bold;
+}
+
+.navColour a:hover {
+  color: #ffffff !important;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#mainMenu {
+  padding: 2%;
+}
+
+#navList {
+  list-style-type: none;
+}
+
+#cta, #gameMap, #searchForm, #resultsArea {
+  background-color: #ffffff;
+}
